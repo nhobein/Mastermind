@@ -8,4 +8,7 @@ public class App
     {
     	new Game();
     }
+    
+    // Zum Testen von Jenkins wurde dieser Kommentar hier eingfügt und committed.
+    // Normalerweise sollte Jenkins das Projekt jetzt neu bauen.
 }
